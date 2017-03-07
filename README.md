@@ -1,0 +1,3 @@
+# News-Analytics
+Given a Company Symbol ... ex : TCS.NS as per convention of yahoo finance... 
+This system analyzes and gives future insight regarding the stock based on Machine Leaning model working inside .
